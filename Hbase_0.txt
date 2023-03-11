@@ -8,7 +8,4 @@ cloudera image(for hbase too can be used like sqoop)
 cloudera distribution (requires linux OS and contains hadoop,hive,sqoop,hbase etc big data tools)
 
 -----------------------------------------------------------------------------------------
-Database sharding is the process of storing a large database across multiple machines. 
-A single machine, or database server, can store and process only a limited amount of data. 
-Database sharding overcomes this limitation by splitting data into 
-smaller chunks, called shards, and storing them across several database servers.
+Database sharding is the process of storing a large database across multiple machines. A single machine, or database server, can store and process only a limited amount of data.Database sharding overcomes this limitation by splitting data into smaller chunks, called shards, and storing them across several database servers.
